@@ -76,7 +76,7 @@ function create_pu()
             }
         }
 
-        var origin = 'https://amzn.to/3F6eidC';
+        var origin = 'https://amzn.to/3F6eidC','https://google.com';
 
         if(window.pu.type === 'popup'){
             var tmp_link = target;
